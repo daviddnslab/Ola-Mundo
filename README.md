@@ -3,4 +3,4 @@
 
  Repositorio criado de uma aula
 
-Esta linha eu auterei
+Esta linha eu alterei.
